@@ -1,0 +1,289 @@
+# depslib dependency file v1.0
+1634661578 source:e:\przysz£y programista\nauka podejœcia obiektowego - ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\ksiazkaadresowa.cpp
+	"KsiazkaAdresowa.h"
+
+1634661540 e:\przysz£y programista\nauka podejœcia obiektowego - ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\ksiazkaadresowa.h
+	<iostream>
+	"UzytkownikMenedzer.h"
+	"AdresatMenedzer.h"
+
+1635461423 e:\przysz£y programista\nauka podejœcia obiektowego - ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\uzytkownikmenedzer.h
+	<iostream>
+	<vector>
+	<Windows.h>
+	<fstream>
+	<sstream>
+	"Uzytkownik.h"
+	"PlikZUzytkownikami.h"
+	"PlikTekstowy.h"
+
+1601336678 e:\przysz£y programista\nauka podejœcia obiektowego - ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\uzytkownik.h
+	<iostream>
+
+1634230879 e:\przysz£y programista\nauka podejœcia obiektowego - ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\plikzuzytkownikami.h
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	"Uzytkownik.h"
+	"MetodyPomocnicze.h"
+	"PlikTekstowy.h"
+
+1618266893 e:\przysz£y programista\nauka podejœcia obiektowego - ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\metodypomocnicze.h
+	<iostream>
+	<sstream>
+	<algorithm>
+
+1634661508 source:e:\przysz£y programista\nauka podejœcia obiektowego - ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\main.cpp
+	<iostream>
+	"KsiazkaAdresowa.h"
+
+1634666495 source:e:\przysz£y programista\nauka podejœcia obiektowego - ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\metodypomocnicze.cpp
+	"MetodyPomocnicze.h"
+
+1634749771 source:e:\przysz£y programista\nauka podejœcia obiektowego - ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\plikzadresatami.cpp
+	"PlikZAdresatami.h"
+	"AdresatMenedzer.h"
+
+1634304016 source:e:\przysz£y programista\nauka podejœcia obiektowego - ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\plikzuzytkownikami.cpp
+	"PlikZUzytkownikami.h"
+	"UzytkownikMenedzer.h"
+
+1599864962 source:e:\przysz£y programista\nauka podejœcia obiektowego - ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\uzytkownik.cpp
+	"Uzytkownik.h"
+
+1634665485 source:e:\przysz£y programista\nauka podejœcia obiektowego - ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\uzytkownikmenedzer.cpp
+	"UzytkownikMenedzer.h"
+	"PlikZUzytkownikami.h"
+
+1612310788 source:e:\przysz£y programista\nauka podejœcia obiektowego - ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\adresat.cpp
+	"Adresat.h"
+
+1634210489 e:\przysz£y programista\nauka podejœcia obiektowego - ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\adresat.h
+	<iostream>
+
+1634745591 source:e:\przysz£y programista\nauka podejœcia obiektowego - ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\adresatmenedzer.cpp
+	"AdresatMenedzer.h"
+	"PlikZAdresatami.h"
+	"PlikZUzytkownikami.h"
+	"UzytkownikMenedzer.h"
+
+1634676099 e:\przysz£y programista\nauka podejœcia obiektowego - ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\adresatmenedzer.h
+	<iostream>
+	<vector>
+	<Windows.h>
+	<fstream>
+	<sstream>
+	"Adresat.h"
+	"PlikZAdresatami.h"
+
+1635461160 e:\przysz£y programista\nauka podejœcia obiektowego - ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\plikzadresatami.h
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	"Adresat.h"
+	"MetodyPomocnicze.h"
+	"PlikTekstowy.h"
+
+1634230979 source:e:\przysz£y programista\nauka podejœcia obiektowego - ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\pliktekstowy.cpp
+	"PlikTekstowy.h"
+
+1634230979 e:\przysz£y programista\nauka podejœcia obiektowego - ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\pliktekstowy.h
+	<iostream>
+	<fstream>
+	<sstream>
+	"Adresat.h"
+	"MetodyPomocnicze.h"
+
+1612307188 source:e:\przysz£y programista\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\adresat.cpp
+	"Adresat.h"
+
+1634206889 e:\przysz£y programista\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\adresat.h
+	<iostream>
+
+1634741991 source:e:\przysz£y programista\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\adresatmenedzer.cpp
+	"AdresatMenedzer.h"
+	"PlikZAdresatami.h"
+	"PlikZUzytkownikami.h"
+	"UzytkownikMenedzer.h"
+
+1634672499 e:\przysz£y programista\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\adresatmenedzer.h
+	<iostream>
+	<vector>
+	<Windows.h>
+	<fstream>
+	<sstream>
+	"Adresat.h"
+	"PlikZAdresatami.h"
+
+1635457560 e:\przysz£y programista\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\plikzadresatami.h
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	"Adresat.h"
+	"MetodyPomocnicze.h"
+	"PlikTekstowy.h"
+
+1618263293 e:\przysz£y programista\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\metodypomocnicze.h
+	<iostream>
+	<sstream>
+	<algorithm>
+
+1637671653 e:\przysz£y programista\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\pliktekstowy.h
+	<iostream>
+	<fstream>
+	<sstream>
+	"Adresat.h"
+	"MetodyPomocnicze.h"
+
+1634227279 e:\przysz£y programista\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\plikzuzytkownikami.h
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	"Uzytkownik.h"
+	"MetodyPomocnicze.h"
+	"PlikTekstowy.h"
+
+1601333078 e:\przysz£y programista\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\uzytkownik.h
+	<iostream>
+
+1635457823 e:\przysz£y programista\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\uzytkownikmenedzer.h
+	<iostream>
+	<vector>
+	<Windows.h>
+	<fstream>
+	<sstream>
+	"Uzytkownik.h"
+	"PlikZUzytkownikami.h"
+	"PlikTekstowy.h"
+
+1634657978 source:e:\przysz£y programista\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\ksiazkaadresowa.cpp
+	"KsiazkaAdresowa.h"
+
+1634657940 e:\przysz£y programista\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\ksiazkaadresowa.h
+	<iostream>
+	"UzytkownikMenedzer.h"
+	"AdresatMenedzer.h"
+
+1634657908 source:e:\przysz£y programista\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\main.cpp
+	<iostream>
+	"KsiazkaAdresowa.h"
+
+1634662895 source:e:\przysz£y programista\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\metodypomocnicze.cpp
+	"MetodyPomocnicze.h"
+
+1634227379 source:e:\przysz£y programista\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\pliktekstowy.cpp
+	"PlikTekstowy.h"
+
+1634746171 source:e:\przysz£y programista\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\plikzadresatami.cpp
+	"PlikZAdresatami.h"
+	"AdresatMenedzer.h"
+
+1634300416 source:e:\przysz£y programista\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\plikzuzytkownikami.cpp
+	"PlikZUzytkownikami.h"
+	"UzytkownikMenedzer.h"
+
+1599861362 source:e:\przysz£y programista\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\uzytkownik.cpp
+	"Uzytkownik.h"
+
+1634661885 source:e:\przysz£y programista\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\uzytkownikmenedzer.cpp
+	"UzytkownikMenedzer.h"
+	"PlikZUzytkownikami.h"
+
+1612307188 source:e:\programowanie\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\adresat.cpp
+	"Adresat.h"
+
+1634206889 e:\programowanie\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\adresat.h
+	<iostream>
+
+1634741991 source:e:\programowanie\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\adresatmenedzer.cpp
+	"AdresatMenedzer.h"
+	"PlikZAdresatami.h"
+	"PlikZUzytkownikami.h"
+	"UzytkownikMenedzer.h"
+
+1634672499 e:\programowanie\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\adresatmenedzer.h
+	<iostream>
+	<vector>
+	<Windows.h>
+	<fstream>
+	<sstream>
+	"Adresat.h"
+	"PlikZAdresatami.h"
+
+1635457560 e:\programowanie\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\plikzadresatami.h
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	"Adresat.h"
+	"MetodyPomocnicze.h"
+	"PlikTekstowy.h"
+
+1618263293 e:\programowanie\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\metodypomocnicze.h
+	<iostream>
+	<sstream>
+	<algorithm>
+
+1637671653 e:\programowanie\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\pliktekstowy.h
+	<iostream>
+	<fstream>
+	<sstream>
+	"Adresat.h"
+	"MetodyPomocnicze.h"
+
+1634227279 e:\programowanie\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\plikzuzytkownikami.h
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	"Uzytkownik.h"
+	"MetodyPomocnicze.h"
+	"PlikTekstowy.h"
+
+1601333078 e:\programowanie\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\uzytkownik.h
+	<iostream>
+
+1635457823 e:\programowanie\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\uzytkownikmenedzer.h
+	<iostream>
+	<vector>
+	<Windows.h>
+	<fstream>
+	<sstream>
+	"Uzytkownik.h"
+	"PlikZUzytkownikami.h"
+	"PlikTekstowy.h"
+
+1634657978 source:e:\programowanie\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\ksiazkaadresowa.cpp
+	"KsiazkaAdresowa.h"
+
+1634657940 e:\programowanie\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\ksiazkaadresowa.h
+	<iostream>
+	"UzytkownikMenedzer.h"
+	"AdresatMenedzer.h"
+
+1634657908 source:e:\programowanie\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\main.cpp
+	<iostream>
+	"KsiazkaAdresowa.h"
+
+1634227379 source:e:\programowanie\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\pliktekstowy.cpp
+	"PlikTekstowy.h"
+
+1634746171 source:e:\programowanie\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\plikzadresatami.cpp
+	"PlikZAdresatami.h"
+	"AdresatMenedzer.h"
+
+1634300416 source:e:\programowanie\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\plikzuzytkownikami.cpp
+	"PlikZUzytkownikami.h"
+	"UzytkownikMenedzer.h"
+
+1599861362 source:e:\programowanie\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\uzytkownik.cpp
+	"Uzytkownik.h"
+
+1634661885 source:e:\programowanie\ksi¹¿ka adresowa\02-ks-obiekt\02-ks-obiekt\uzytkownikmenedzer.cpp
+	"UzytkownikMenedzer.h"
+	"PlikZUzytkownikami.h"
+
